@@ -1,6 +1,6 @@
 import React from 'react'
 import UserProfile from '/user-circle-solid.svg'
-import robot from '/robot-solid.svg'
+import robot from '/black.svg'
 import '../styles/bullet.css'
 
 const bullet = ({role,content}) => {
